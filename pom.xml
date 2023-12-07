@@ -48,7 +48,7 @@
         <liquibase-plugin.password/>
         <liquibase-plugin.url/>
         <liquibase-plugin.username/>
-        <liquibase.version>4.24.0</liquibase.version>
+        <liquibase.version>4.25.0</liquibase.version>
         <mapstruct.version>1.5.5.Final</mapstruct.version>
         <maven-checkstyle-plugin.version>3.3.0</maven-checkstyle-plugin.version>
         <maven-clean-plugin.version>3.3.1</maven-clean-plugin.version>
